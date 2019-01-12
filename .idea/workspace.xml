@@ -19,12 +19,16 @@
       </usages-collector>
     </session>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="442" />
     <option name="y" value="20" />
     <option name="width" value="828" />
     <option name="height" value="720" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -44,6 +48,9 @@
       <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547279961814" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
